@@ -7,6 +7,7 @@
 - [x] [Pure](http://purecss.io/)
 - [x] [Semantic UI](http://semantic-ui.com/)
 - [x] [UIKit](http://getuikit.com/)
+- [x] [and others such as Skeleton](http://formvalidation.io/examples/#supporting-other-frameworks)
 
 It's developed from scratch by [@formvalidation](http://twitter.com/formvalidation).
 
@@ -25,23 +26,27 @@ It's developed from scratch by [@formvalidation](http://twitter.com/formvalidati
 
 __Validating Bootstrap form__
 
-![Screenshot](screenshots/bootstrap.gif)
+![Screenshot](bootstrap.gif)
 
 __Validating Foundation form__
 
-![Screenshot](screenshots/foundation.gif)
+![Screenshot](foundation.gif)
 
 __Validating Pure form__
 
-![Screenshot](screenshots/pure.gif)
+![Screenshot](pure.gif)
 
 __Validating Semantic UI form__
 
-![Screenshot](screenshots/semantic.gif)
+![Screenshot](semantic.gif)
 
-__Validating UI Kit form__
+__Validating UIKit form__
 
-![Screenshot](screenshots/uikit.gif)
+![Screenshot](uikit.gif)
+
+__Validating Skeleton form__
+
+![Screenshot](skeleton.gif)
 
 ## Author
 
