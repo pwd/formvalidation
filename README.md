@@ -26,27 +26,27 @@ It's developed from scratch by [@formvalidation](http://twitter.com/formvalidati
 
 __Validating Bootstrap form__
 
-![Screenshot](bootstrap.gif)
+![Validating Bootstrap form](screenshots/bootstrap.gif)
 
 __Validating Foundation form__
 
-![Screenshot](foundation.gif)
+![Validating Foundation form](screenshots/foundation.gif)
 
 __Validating Pure form__
 
-![Screenshot](pure.gif)
+![Validating Pure form](screenshots/pure.gif)
 
 __Validating Semantic UI form__
 
-![Screenshot](semantic.gif)
+![Validating Semantic UI form](screenshots/semantic.gif)
 
 __Validating UIKit form__
 
-![Screenshot](uikit.gif)
+![Validating UIKit form](screenshots/uikit.gif)
 
 __Validating Skeleton form__
 
-![Screenshot](skeleton.gif)
+![Validating Skeleton form](screenshots/skeleton.gif)
 
 ## Author
 
