@@ -1,11 +1,10 @@
 {
-    "name": "bootstrapValidator",
+    "name": "formValidator",
     "description": "A jQuery plugin to validate form fields. Use with Bootstrap 3",
     "version": "0.6.0-dev",
     "main": [
-        "dist/css/bootstrapValidator.css",
-        "dist/js/bootstrapValidator.js",
-        "dist/js/bootstrapValidator.js",
+        "dist/css/formValidation.css",
+        "dist/js/formValidation.js",
         "dist/js/framework/*",
         "dist/js/language/*"
     ],
